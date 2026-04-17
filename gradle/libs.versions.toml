@@ -42,7 +42,7 @@ adapterdelegates4 = "4.3.2"
 #noinspection GradleDependency Commons IO > 2.5 uses java.nio.file, which requires desugaring
 commonsIo = "2.6"
 commonsNet = "3.6"
-bouncycastle = "1.82"
+bouncycastle = "1.84"
 #noinspection NewerVersionAvailable upgrade to 3.6.1 failed BonjourManagerTest
 jmdns = "3.5.5"
 nanohttpd = "2.3.1"
